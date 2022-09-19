@@ -1,4 +1,3 @@
-Installs google-chrome on centos
-================================
+# Installs google-chrome on centos, RedOS
 
 LICENSE: MIT
